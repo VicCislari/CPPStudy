@@ -1,0 +1,3 @@
+/Users/vicis/My Drive/FUAS/Lectures/Sem.6.SoSe.2023/untitled/cmake-build-debug/CMakeFiles/untitled.dir
+/Users/vicis/My Drive/FUAS/Lectures/Sem.6.SoSe.2023/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vicis/My Drive/FUAS/Lectures/Sem.6.SoSe.2023/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
